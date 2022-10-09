@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allan
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning ReactJs and React Native technologies that are in line with what I like.
+- 🌱 Full stack developer (Java<Spring boot>, ReactJS and its frameworks particularly NextJS)
 - 📫 You can reach me on social media via  twitter @Allan_Geor and on instagram @allan_geor_
 
 
